@@ -1,4 +1,3 @@
-#using_tkinter
 import requests
 import json
 from tkinter import *
